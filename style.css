@@ -73,6 +73,8 @@
     border-bottom: 1px solid #00bfa6;
     outline: none;
     background: transparent;
+    font-weight: bold;
+    color: #fff;
 }
 .input-field::placeholder{
     color: #fff;
